@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Saad"
+        android:textSize="23sp"
+        android:textColor="#000"
+        android:id="@+id/txtname"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2349438135138"
+        android:id="@+id/txtnumber"
+        android:textColor="@color/colorPrimaryDark"
+        />
+</LinearLayout>
